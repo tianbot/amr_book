@@ -1,10 +1,6 @@
 # 协议许可
 
-## CC BY-SA 4.0 DEED
-
-### 署名-相同方式共享 4.0 国际
-
-
+[autonomous mobile robot - theory and practice ](https://tianbot-1.gitbook.io/autonomous-mobile-robot-theory-and-practice)© 2024  is licensed under [CC BY-SA 4.0 <img src="https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg" alt="" data-size="line"><img src="https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg" alt="" data-size="line">](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
 
 ### 您可以自由地： <a href="#rights" id="rights"></a>
 
